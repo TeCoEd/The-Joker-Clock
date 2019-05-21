@@ -8,6 +8,7 @@ The Joker Clock is a not any standard clock.  Yes it tells the time making use o
 * Lego Joker Clock
 * Pi Zero W
 * Pimoroni micro Dot pHAT
+* Bluetooth Speaker
 * Right angled micro USB
 * Basic tools, screwdriver etc.
 
