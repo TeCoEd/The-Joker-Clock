@@ -4,6 +4,8 @@ A simple Lego Joker Clock, that tells the time and also randomly shouts out Joke
 
 The Joker Clock is a not any standard clock.  Yes it tells the time making use of the Pimoroni Micro Dot pHAT LED Matrix Display which displays the time and various animations in a lovely neon green glow.  However, at random moments in time the Joker shouts out classic 'Joker style' quotes to scare anyone who may be around or trying to tell the time.  Then the clock display returns and it is, just a clock again.
 
++ ADD IMAGE OF PROJECT HERE
+
 # What you need
 * Lego Joker Clock
 * Pi Zero W
