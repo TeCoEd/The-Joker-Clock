@@ -15,5 +15,5 @@ The Joker Clock is a not any standard clock.  Yes it tells the time making use o
 * Basic tools, screwdriver etc.
 
 [Project Website](https://www.tecoed.co.uk/the-joker.html)
-Coming soon
-[YouTube Video](https://youtu.be/7pNxikwtCvs)
+
+[YouTube Video](https://www.youtube.com/watch?v=FiOva5_eKcw)
